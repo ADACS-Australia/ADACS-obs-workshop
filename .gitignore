@@ -1,0 +1,17 @@
+# Project generated files #
+*.pyc
+.ipynb_checkpoints*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+thumbs.db
+Thumbs.db
+
+ intro-to-ml/.ipynb_checkpoints*
+python-viz/.ipynb_checkpoints*
+
