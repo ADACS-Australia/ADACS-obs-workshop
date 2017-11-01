@@ -68,7 +68,7 @@ Where possible training material will be uploaded as an ipython notebook and che
 
 If you want to download a specific folder (e.g. Day 1) instead of cloning the entire repository you can use svn to checkout a subdirectory of this repository by running the following command in your shell:
 
-`svn checkout https://github.com/ADACS-Australia/IntroToComputing/trunk/Day1`
+`svn checkout https://github.com/r-lange/ADACS-obs-workshop/trunk/Day1`
 
 **Note**: you simply need to change the url of the folder by replacing `tree/master` with `trunk`
 
