@@ -1,7 +1,3 @@
-# ADACS-obs-workshop
-Repo to collect material for the ADACS intro to computation for astronomorer's workshop
-
-
 ## Day 1
 
 1. Opening remarks/keynote
@@ -23,7 +19,8 @@ Repo to collect material for the ADACS intro to computation for astronomorer's w
     3. Visualisation - The good and the bad
 
 
-** TO DO **
+**TO DO**
+
 - make slides for point 1
-- link git/github tutorial (use Danny's or adapt SWC?)
+- link git/github tutorial (use Danny's or adapt SWC?) http://macrocosme.github.io/GitTutorial/
 - make notebook for point 3, part of this will be taken from other tutorials in the top folder
