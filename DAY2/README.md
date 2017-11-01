@@ -1,8 +1,3 @@
-# ADACS-obs-workshop
-Repo to collect material for the ADACS intro to computation for astronomorer's workshop
-
-
-
 ## Day 2
 
 1. Working with pandas DataFrames in python
