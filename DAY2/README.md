@@ -28,3 +28,10 @@
 - create radio astronomy related astropy tutorial
 - create and add slides for VO overview
 - collate tutorial from CDS and Topcat and https://github.com/astropy/astroquery
+
+VO related links
+Getting started - http://www.ivoa.net/astronomers/getting_started.html 
+Using the VO - http://www.ivoa.net/astronomers/using_the_vo.html
+VO compliant tools - http://www.ivoa.net/astronomers/applications.html
+Especially the section on manuals and how to’s
+
