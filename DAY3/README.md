@@ -1,7 +1,3 @@
-# ADACS-obs-workshop
-Repo to collect material for the ADACS intro to computation for astronomorer's workshop
-
-
 ## Day 3
 
 1. Introduction to ML
@@ -15,6 +11,7 @@ Repo to collect material for the ADACS intro to computation for astronomorer's w
     5. Dimensionality reduction
 2. Introduction to Nimbus
 3. Q&A session followed by sundowner
+
 
 
 
