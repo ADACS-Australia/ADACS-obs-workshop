@@ -24,3 +24,9 @@
 - make slides for point 1
 - link git/github tutorial (use Danny's or adapt SWC?) http://macrocosme.github.io/GitTutorial/
 - make notebook for point 3, part of this will be taken from other tutorials in the top folder
+
+
+**Useful links**
+
+- https://medium.com/towards-data-science/top-6-cheat-sheets-novice-machine-engineers-need-5ea43d1be3de
+- http://jacksimpson.co/ipython-notebook-best-practices-data-science/
