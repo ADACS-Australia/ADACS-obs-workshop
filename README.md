@@ -1,6 +1,10 @@
 # ADACS-obs-workshop
 Repo to collect material for the ADACS intro to computation for astronomorer's workshop
 
+We will be using an etherpad (a collaborative online document) to post challenges and
+information throughout the workshop. The document also contains a chat where you can ask us 
+questions or chat with each other:
+https://public.etherpad-mozilla.org/p/adacs-13-11-2017
 
 ## Day 1
 
