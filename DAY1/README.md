@@ -2,7 +2,7 @@
 
 1. Opening remarks/keynote
     1. [Astronomer's toolkit](https://docs.google.com/presentation/d/18ov89nU8fsQP2t6cX0LIpLwn00hNG7xymZA109gUuWA/edit?usp=sharing)
-2. Version Control with git and github
+2. Version Control with git and github (we will be following the [Software Carpentry lesson](http://swcarpentry.github.io/git-novice/))
     1. global config
     2. Create and commit to a repository
     3. explore history
@@ -17,10 +17,6 @@
         3. packages
         4. Python syntax and data types
     3. Visualisation - The good and the bad
-
-
-**TO DO**
-- link git/github tutorial (use Danny's or adapt SWC?) http://macrocosme.github.io/GitTutorial/
 
 
 **Useful links**
