@@ -1,7 +1,7 @@
 ## Day 1
 
 1. Opening remarks/keynote
-    1. Astronomer's toolkit
+    1. [Astronomer's toolkit](https://docs.google.com/presentation/d/18ov89nU8fsQP2t6cX0LIpLwn00hNG7xymZA109gUuWA/edit?usp=sharing)
 2. Version Control with git and github
     1. global config
     2. Create and commit to a repository
