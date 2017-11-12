@@ -1,7 +1,9 @@
-# ADACS-obs-workshop
-Repo to collect material for the ADACS intro to computation for astronomorer's workshop
+# ADACS - Introduction to computing and data science for astronomers
 
-We will be using an etherpad (a collaborative online document) to post challenges and
+Held at Curtin University, 13 to 15 November 2017: https://adacs.org.au/index.php/2017/10/10/introduction-to-computing-and-data-science-for-astronomers/
+
+
+Throughout the workshop we will be using an etherpad (a collaborative online document) to post challenges and
 information throughout the workshop. The document also contains a chat where you can ask us 
 questions or chat with each other:
 https://public.etherpad-mozilla.org/p/adacs-13-11-2017
