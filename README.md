@@ -30,23 +30,17 @@ https://public.etherpad-mozilla.org/p/adacs-13-11-2017
 
 1. Working with pandas DataFrames in python
     1. Loading and exploring data
-    2. Merging data
+    2. Diagnostic plots
     3. Cleaning data
-2. Plotting data
-    1. matplotlib
-    2. seaborn
-3. Astronomy examples with AstroPy
+    4. Merging data (if time is available, otherwise this can be done in own time)
+2. Astronomy examples with AstroPy
     1. Overview 
     2. Working with FITS files and WCS
     3. Using Coorindates
     4. Radio astronomy related tutorial(?) 
-4. Virtual Observatories
-    1. ASVO
-    2. IVOA (specifically CDS services)
-5. Data Acquisition (using Topcat, CDS tools and Python)
-    1. Querying
-    2. Visualisation
-
+3. Virtual Observatories
+    1. Inroduction
+    2. Data Acquisition (using Topcat, CDS tools and Python)
 
 ## Day 3
 
@@ -60,7 +54,7 @@ https://public.etherpad-mozilla.org/p/adacs-13-11-2017
     4. Clustering
     5. Dimensionality reduction
 2. Introduction to Nimbus
-3. Q&A session followed by sundowner
+3. Q&A session followed by sundowner at the Innovation Central Perth (B216:204)
 
 
 
