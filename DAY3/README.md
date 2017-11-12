@@ -14,12 +14,3 @@
 
 
 
-
-**TO DO**
-
-- extract relevant parts from Intro to ML ipynb
-- overhaul slides, are they needed?
-- check Nimbus tutorial and possibly adjust for time availability
-- order food for sundowner
-
-
