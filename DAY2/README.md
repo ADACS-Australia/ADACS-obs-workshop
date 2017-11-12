@@ -2,32 +2,19 @@
 
 1. Working with pandas DataFrames in python
     1. Loading and exploring data
-    2. Merging data
+    2. Diagnostic plots
     3. Cleaning data
-2. Plotting data
-    1. matplotlib
-    2. seaborn
-3. Astronomy examples with AstroPy
+    4. Merging data (if time is available, otherwise this can be done in own time)
+2. Astronomy examples with AstroPy
     1. Overview 
     2. Working with FITS files and WCS
     3. Using Coorindates
     4. Radio astronomy related tutorial(?) 
-4. Virtual Observatories
-    1. ASVO
-    2. IVOA (specifically CDS services)
-5. Data Acquisition (using Topcat, CDS tools and Python)
-    1. Querying
-    2. Visualisation
+3. Virtual Observatories
+    1. Inroduction
+    2. Data Acquisition (using Topcat, CDS tools and Python)
 
 
-**TO DO**
-
-- extract notebook with relevant sections from Intro to pandas and intro to ML for point 1
-- add relevant sections on plotting from intro to pandas, intro to ml and visualisation (Danny's ipynb)
-- Check and update astropy tutorials, copy relevant info from https://github.com/astropy/AAS2015/tree/master/notebooks
-- create radio astronomy related astropy tutorial
-- create and add slides for VO overview
-- collate tutorial from CDS and Topcat and https://github.com/astropy/astroquery
 
 **VO related links**
 
@@ -35,6 +22,6 @@
 - Using the VO - http://www.ivoa.net/astronomers/using_the_vo.html
 - VO compliant tools - http://www.ivoa.net/astronomers/applications.html
     
-    Especially the section on manuals and how to’s
+ Especially the section on manuals and how to’s
 - Topcat VO access TAP - http://www.star.bris.ac.uk/~mbt/topcat/sun253/vo-windows.html
 
